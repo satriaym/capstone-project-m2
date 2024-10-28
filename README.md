@@ -26,8 +26,8 @@ Analisis ini diharapkan dapat membantu **tim Marketing dan Sales** dalam menyusu
 ## **Limitasi Project**
 
 1.Data merupakan sample dengan range 15 December 2012 hingga 24 December 2022
-1.Data berisi 15854 rows, 17 columns
-1.Data yang berkaitan dengan **review** dianggap sama dengan data **transaksi** yang terjadi
+2.Data berisi 15854 rows, 17 columns
+3.Data yang berkaitan dengan **review** dianggap sama dengan data **transaksi** yang terjadi
 
 ## **Stakeholder di Airbnb Bangkok**
 
